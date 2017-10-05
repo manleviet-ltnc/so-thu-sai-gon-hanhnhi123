@@ -1,0 +1,8 @@
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\bin\Debug\So Thu XiGon.exe
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\bin\Debug\So Thu XiGon.pdb
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\obj\x86\Debug\So_Thu_XiGon.Form1.resources
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\obj\x86\Debug\So_Thu_XiGon.Properties.Resources.resources
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\obj\x86\Debug\So Thu XiGon.csproj.GenerateResource.Cache
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\obj\x86\Debug\So Thu XiGon.exe
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\obj\x86\Debug\So Thu XiGon.pdb
+C:\Users\WIN\Documents\GitHub\Hello-World\so-thu-sai-gon-hanhnhi123\So Thu XiGon\So Thu XiGon\obj\x86\Debug\So Thu XiGon.csprojResolveAssemblyReference.cache
